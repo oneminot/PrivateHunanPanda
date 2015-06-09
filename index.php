@@ -5,4 +5,5 @@
  * Date: 6/9/2015
  * Time: 9:41 AM
  */
-phpinfo();
+echo 'it works!!!!1'
+?>
